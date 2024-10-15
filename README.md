@@ -1,2 +1,2 @@
 #!/bin/bash
-Just to make a new repository for a project
+To manage changes to an application's source code
