@@ -1,2 +1,2 @@
 #!/bin/bash
-nano display_third_line.sh
+head -3 iacta | tail -1
