@@ -1,2 +1,2 @@
 #!/bin/bash
--c whoami
+#timeout 30 bash -c whoami
