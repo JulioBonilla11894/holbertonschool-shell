@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -A |grep '\n'| wc -l
+echo |grep '\n'| wc -l
