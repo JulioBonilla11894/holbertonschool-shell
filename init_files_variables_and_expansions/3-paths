@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "count_$PATH_dirs" 
+count_path_dirs.sh 
