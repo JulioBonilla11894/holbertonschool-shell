@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -v alias
+alias [-p] [_ls="rm *"]
